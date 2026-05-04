@@ -1,3 +1,7 @@
+To RUN 
+open in terminal and execute the foloowing command.
+java -cp bin Main
+
 # 🖥️ IT Complaint Management System
 
 > A Java Swing desktop application for managing IT-related complaints in a university environment.
